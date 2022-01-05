@@ -12,10 +12,13 @@
     "type": "git",
     "url": "git+https://github.com/sendhyasanjivani/ass4.git"
   },
-  "author": "sandhya",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sendhyasanjivani/ass4/issues"
   },
-  "homepage": "https://github.com/sendhyasanjivani/ass4#readme"
+  "homepage": "https://github.com/sendhyasanjivani/ass4#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
